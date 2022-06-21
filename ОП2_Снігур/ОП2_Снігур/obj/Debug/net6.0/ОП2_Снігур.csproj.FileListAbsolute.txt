@@ -1,0 +1,15 @@
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\bin\Debug\net6.0\ОП2_Снігур.exe
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\bin\Debug\net6.0\ОП2_Снігур.deps.json
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\bin\Debug\net6.0\ОП2_Снігур.runtimeconfig.json
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\bin\Debug\net6.0\ОП2_Снігур.dll
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\bin\Debug\net6.0\ОП2_Снігур.pdb
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\ОП2_Снігур.csproj.AssemblyReference.cache
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\ОП2_Снігур.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\ОП2_Снігур.AssemblyInfoInputs.cache
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\ОП2_Снігур.AssemblyInfo.cs
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\ОП2_Снігур.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\ОП2_Снігур.dll
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\refint\ОП2_Снігур.dll
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\ОП2_Снігур.pdb
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\ОП2_Снігур.genruntimeconfig.cache
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_Снігур\obj\Debug\net6.0\ref\ОП2_Снігур.dll
