@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Паша\\Documents\\Дз\\2 семестр\\ОП\\ОП1_Снігур\\ОП1_Снігур\\ОП1_Снігур.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Паша\\Documents\\Дз\\2 семестр\\ОП\\ОП1_Снігур\\ОП1_Снігур\\ОП1_Снігур.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Паша\\Documents\\Дз\\2 семестр\\ОП\\ОП1_Снігур\\ОП1_Снігур\\ОП1_Снігур.csproj",
+        "projectName": "ОП1_Снігур",
+        "projectPath": "C:\\Users\\Паша\\Documents\\Дз\\2 семестр\\ОП\\ОП1_Снігур\\ОП1_Снігур\\ОП1_Снігур.csproj",
+        "packagesPath": "C:\\Users\\Паша\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Паша\\Documents\\Дз\\2 семестр\\ОП\\ОП1_Снігур\\ОП1_Снігур\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Паша\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
