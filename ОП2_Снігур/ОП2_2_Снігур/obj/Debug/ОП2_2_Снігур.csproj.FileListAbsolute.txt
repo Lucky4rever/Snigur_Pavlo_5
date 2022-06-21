@@ -1,0 +1,11 @@
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\bin\Debug\ОП2_2_Снігур.exe.config
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\bin\Debug\ОП2_2_Снігур.exe
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\bin\Debug\ОП2_2_Снігур.pdb
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\obj\Debug\ОП2_2_Снігур.csproj.AssemblyReference.cache
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\obj\Debug\ОП2_2_Снігур.csproj.SuggestedBindingRedirects.cache
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\obj\Debug\ОП2_2_Снігур.Properties.Resources.resources
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\obj\Debug\ОП2_2_Снігур.csproj.GenerateResource.cache
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\obj\Debug\ОП2_2_Снігур.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\obj\Debug\ОП2_2_Снігур.exe
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\obj\Debug\ОП2_2_Снігур.pdb
+C:\Users\Паша\Documents\Дз\2 семестр\ОП\ОП2_Снігур\ОП2_2_Снігур\obj\Debug\ОП2_2_Снігур.Form1.resources

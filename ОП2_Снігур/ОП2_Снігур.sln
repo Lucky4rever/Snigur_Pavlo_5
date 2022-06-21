@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ОП2_1_Снігур", "ОП2_Снігур\ОП2_1_Снігур.csproj", "{DBE43CA4-322A-4D29-AF5C-A270D7C7EAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ОП2_2_Снігур", "ОП2_2_Снігур\ОП2_2_Снігур.csproj", "{839F0E64-2396-4FE6-A89E-E960094DA5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE43CA4-322A-4D29-AF5C-A270D7C7EAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE43CA4-322A-4D29-AF5C-A270D7C7EAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE43CA4-322A-4D29-AF5C-A270D7C7EAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE43CA4-322A-4D29-AF5C-A270D7C7EAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839F0E64-2396-4FE6-A89E-E960094DA5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839F0E64-2396-4FE6-A89E-E960094DA5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839F0E64-2396-4FE6-A89E-E960094DA5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839F0E64-2396-4FE6-A89E-E960094DA5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A545DA-EAD4-453B-9593-9B96003DF718}
+	EndGlobalSection
+EndGlobal
